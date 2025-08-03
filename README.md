@@ -1,5 +1,5 @@
 # PLocDiffusion
-code for “Ying-Yi Wang, Yu Li, Yi-Lin Li, Ying He, Ying-Ying，XuPLocDiffusion: Diffusion-Based Generation of Cell Images with Quantitative Fluorescence for Precise and Interpretable Protein Subcellular Localization”
+code for “Ying-Yi Wang, Yu Li, Yi-Lin Li, Ying He, Ying-Ying Xu,PLocDiffusion: Diffusion-Based Generation of Cell Images with Quantitative Fluorescence for Precise and Interpretable Protein Subcellular Localization”
 Contact: Ying-Ying Xu, yyxu@smu.edu.cn 2025/08/01
 # 1.Data preprocess
 The data source comes from the subcellular section in the Human Protein Atlas (HPA, https://proteinatlas.org) ,Run the codes to get the single-cell images.

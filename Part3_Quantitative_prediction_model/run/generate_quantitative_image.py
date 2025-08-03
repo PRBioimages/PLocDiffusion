@@ -105,12 +105,10 @@ def main(datasetsfile, basedir, output_base_dir):
             curlabels = np.array(curlabels)
             save_to_h5(output_h5, curlabels)
 
-        # 保存 curlabels 到 h5 文件
     curlabels = np.array(curlabels)
     save_to_h5(output_h5, curlabels)
 
 
-#     # 示例调用主函数
 TrainImgs_basedir = '../TrainImgs'
 TrainLabels_Classfication_h5 = '../AllRCateTrainLabelsU2RforClassfication_.h5'
 output_dir = "../TrainImgs_allp"
